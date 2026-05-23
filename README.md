@@ -1,16 +1,18 @@
-## Hi there 👋
+<a href="https://t.me/plssog">
+<picture>
+  <img alt="Engineered by dejavuu" src="https://raw.githubusercontent.com/RiobVO/RiobVO/main/banner.svg" width="100%">
+</picture>
+</a>
 
-<!--
-**RiobVO/RiobVO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Studio notes
 
-Here are some ideas to get you started:
+Independent engineering practice. I design, build, and maintain software - end to end. Each engagement is individually scoped, production-deployed, and maintained beyond delivery. Currently accepting one new brief per calendar month.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Start an engagement](https://t.me/plssog) - Telegram, fastest reply
+- [Browse the code](https://github.com/RiobVO?tab=repositories) - all repositories, MIT-licensed where applicable
+
+Visit [t.me/plssog](https://t.me/plssog) for direct contact.
+
+---
+
+Engagements under `@dejavuu` are built to run in production from day one and maintained beyond delivery. For business inquiries use the contact above - not the issue tracker.
