@@ -2,7 +2,7 @@
   <rect width="1280" height="320" fill="#1a1230"/>
   <line x1="40" y1="40" x2="1240" y2="40" stroke="#3a2a55" stroke-width="1" stroke-dasharray="3 5"/>
   <line x1="40" y1="280" x2="1240" y2="280" stroke="#3a2a55" stroke-width="1" stroke-dasharray="3 5"/>
-  <text x="60" y="32" font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#6b5a8a" letter-spacing="2">FIG.01 — STUDIO SHEET</text>
+  <text x="60" y="32" font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#6b5a8a" letter-spacing="2">FIG.01 - STUDIO SHEET</text>
   <text x="1220" y="32" text-anchor="end" font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#6b5a8a" letter-spacing="2">REV.03 / 2026</text>
   <text x="80" y="155" font-family="-apple-system, Segoe UI, Inter, sans-serif" font-size="64" font-weight="500" fill="#f0ebff" letter-spacing="-2">Engineered by <tspan fill="#b89dff">@dejavuu</tspan></text>
   <text x="80" y="200" font-family="-apple-system, Segoe UI, Inter, sans-serif" font-size="22" fill="#a89cc4">Independent engineering practice.</text>
@@ -10,17 +10,17 @@
   <g transform="translate(820, 110)">
     <rect x="0" y="40" width="80" height="40" fill="none" stroke="#b89dff" stroke-width="1.5"/>
     <text x="40" y="65" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#b89dff" letter-spacing="1.5">BRIEF</text>
-    <line x1="80" y1="60" x2="130" y2="60" stroke="#b89dff" stroke-width="1.5"/>
-    <polygon points="125,55 138,60 125,65" fill="#b89dff"/>
+    <line x1="80" y1="60" x2="130" y2="60" stroke="#ff4d6d" stroke-width="2"/>
+    <polygon points="125,54 140,60 125,66" fill="#ff4d6d"/>
     <rect x="130" y="20" width="100" height="80" fill="none" stroke="#b89dff" stroke-width="2"/>
-    <circle cx="180" cy="60" r="20" fill="none" stroke="#b89dff" stroke-width="1.5"/>
-    <circle cx="180" cy="60" r="6" fill="#b89dff"/>
+    <circle cx="180" cy="60" r="20" fill="none" stroke="#ff4d6d" stroke-width="2"/>
+    <circle cx="180" cy="60" r="7" fill="#ff4d6d"/>
     <text x="180" y="120" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#b89dff" letter-spacing="1.5">PRACTICE</text>
-    <line x1="230" y1="60" x2="280" y2="60" stroke="#b89dff" stroke-width="1.5"/>
-    <polygon points="275,55 288,60 275,65" fill="#b89dff"/>
+    <line x1="230" y1="60" x2="280" y2="60" stroke="#ff4d6d" stroke-width="2"/>
+    <polygon points="275,54 290,60 275,66" fill="#ff4d6d"/>
     <rect x="280" y="40" width="80" height="40" fill="none" stroke="#b89dff" stroke-width="1.5"/>
     <text x="320" y="65" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#b89dff" letter-spacing="1.5">MAINTAIN</text>
   </g>
   <text x="60" y="305" font-family="ui-monospace, Menlo, monospace" font-size="11" fill="#6b5a8a" letter-spacing="1">// @dejavuu / independent / est. quietly</text>
-  <text x="1220" y="305" text-anchor="end" font-family="ui-monospace, Menlo, monospace" font-size="11" fill="#b89dff" letter-spacing="1">● ACCEPTING BRIEFS</text>
+  <text x="1220" y="305" text-anchor="end" font-family="ui-monospace, Menlo, monospace" font-size="11" fill="#b89dff" letter-spacing="1">- ACCEPTING BRIEFS</text>
 </svg>
