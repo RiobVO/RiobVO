@@ -6,7 +6,7 @@
   <text x="1220" y="32" text-anchor="end" font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#6b5a8a" letter-spacing="2">REV.03 / 2026</text>
   <text x="80" y="155" font-family="-apple-system, Segoe UI, Inter, sans-serif" font-size="64" font-weight="500" fill="#f0ebff" letter-spacing="-2">Engineered by <tspan fill="#b89dff">@dejavuu</tspan></text>
   <text x="80" y="200" font-family="-apple-system, Segoe UI, Inter, sans-serif" font-size="22" fill="#a89cc4">Independent engineering practice.</text>
-  <text x="80" y="232" font-family="-apple-system, Segoe UI, Inter, sans-serif" font-size="22" fill="#a89cc4">I design, build, and maintain software — end to end.</text>
+  <text x="80" y="232" font-family="-apple-system, Segoe UI, Inter, sans-serif" font-size="22" fill="#a89cc4">I design, build, and maintain software - end to end.</text>
   <g transform="translate(820, 110)">
     <rect x="0" y="40" width="80" height="40" fill="none" stroke="#b89dff" stroke-width="1.5"/>
     <text x="40" y="65" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#b89dff" letter-spacing="1.5">BRIEF</text>
