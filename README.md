@@ -1,18 +1,19 @@
 <a href="https://t.me/plssog">
 <picture>
-  <img alt="Engineered by dejavuu" src="https://raw.githubusercontent.com/RiobVO/RiobVO/main/banner.svg" width="100%">
+  <img alt="dejavuu — independent engineering practice" src="https://raw.githubusercontent.com/RiobVO/RiobVO/main/banner.svg" width="100%">
 </picture>
 </a>
 
-## Studio notes
+I design, build, and operate software systems end to end — and stay responsible for them after delivery. Everything pinned below runs in production.
 
-Independent engineering practice. I design, build, and maintain software - end to end. Each engagement is individually scoped, production-deployed, and maintained beyond delivery. Currently accepting one new brief per calendar month.
+## Principles
 
-- [Start an engagement](https://t.me/plssog) - Telegram, fastest reply
-- [Browse the code](https://github.com/RiobVO?tab=repositories) - all repositories, MIT-licensed where applicable
+- **Systems over features.** Every problem gets decomposed to its bottleneck before any code is written. Most "feature requests" dissolve at this step.
+- **Complexity is a cost, paid monthly.** The right architecture is the smallest set of moving parts that survives the real load — not the most impressive diagram.
+- **Correctness is non-negotiable.** Verification before delivery; an audit trail wherever money, compliance, or trust is involved.
+- **Tools are leverage, not identity.** Stacks rotate, agents write code now — engineering judgment is what I sell. I direct the tools; the constraints and the verification are mine.
+- **Shipped is the start.** Production is where responsibility begins, not where the project ends.
 
-Visit [t.me/plssog](https://t.me/plssog) for direct contact.
+## Contact
 
----
-
-Engagements under `@dejavuu` are built to run in production from day one and maintained beyond delivery. For business inquiries use the contact above - not the issue tracker.
+Telegram [@plssog](https://t.me/plssog) — business inquiries there, not the issue tracker.
