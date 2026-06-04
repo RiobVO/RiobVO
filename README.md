@@ -4,7 +4,7 @@
 </picture>
 </a>
 
-I design, build, and operate software systems end to end — and stay responsible for them after delivery. Everything pinned below runs in production.
+Everything pinned below runs in production — real businesses, real load. I stay responsible for systems after delivery, not just until it.
 
 ## Principles
 
