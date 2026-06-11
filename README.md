@@ -1,6 +1,6 @@
 <a href="https://t.me/plssog">
 <picture>
-  <img alt="dejavuu — independent engineering practice" src="https://raw.githubusercontent.com/RiobVO/RiobVO/main/banner.svg?v=4" width="100%">
+  <img alt="RiobVo — independent engineering practice" src="https://raw.githubusercontent.com/RiobVO/RiobVO/main/banner.svg?v=4" width="100%">
 </picture>
 </a>
 
