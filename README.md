@@ -4,7 +4,8 @@
 </picture>
 </a>
 
-Everything pinned below runs in production — real businesses, real load. I stay responsible for systems after delivery, not just until it.
+
+Everything pinned below runs in production - real businesses, real load. I stay responsible for systems after delivery, not just until it.
 
 ## Principles
 
